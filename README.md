@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/Bean05/Bean05/blob/main/assets/photo_2022-10-19_17-00-21.jpg)](https://t.me/bean_shar)
 
 About me
 
