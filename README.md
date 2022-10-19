@@ -16,11 +16,13 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-512C8C?style=for-the-badge&logo=Sequelize)
 ![Git](https://img.shields.io/badge/-Git-512C8C?style=for-the-badge&logo=Git)
 ![Babel](https://img.shields.io/badge/-Babel-512C8C?style=for-the-badge&logo=Babel)
+![NPM](https://img.shields.io/badge/-NPM-512C8C?style=for-the-badge&logo=NPM)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-512C8C?style=for-the-badge&logo=Telegram)](https://t.me/bean_shar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bean05&layout=compact)](https://github.com/Bean05/github-readme-stats)
+
 
 
 
