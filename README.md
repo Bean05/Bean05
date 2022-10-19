@@ -1,6 +1,7 @@
 [![Header](https://github.com/Bean05/Bean05/blob/main/assets/photo_2022-10-19_17-00-21.jpg)](https://t.me/bean_shar)
 
 ## I'm Frontend JS developer 👩🏻‍💻
+### I like to create useful applications and always open to new ideas and stacks.
 
 ## Language and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-6039AC?style=for-the-badge&logo=javascript)
@@ -13,10 +14,13 @@
 ![Node](https://img.shields.io/badge/-Node.JS-512C8C?style=for-the-badge&logo=Node.JS)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-6039AC?style=for-the-badge&logo=PostgreSQL)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-512C8C?style=for-the-badge&logo=Sequelize)
+![Git](https://img.shields.io/badge/-Git-512C8C?style=for-the-badge&logo=Git)
+![Babel](https://img.shields.io/badge/-Babel-512C8C?style=for-the-badge&logo=Babel)
 
-Follow me
+## Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-512C8C?style=for-the-badge&logo=Telegram)](https://t.me/bean_shar)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bean05&layout=compact)](https://github.com/Bean05/github-readme-stats)
 
 
 
