@@ -20,6 +20,7 @@
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-512C8C?style=for-the-badge&logo=Telegram)](https://t.me/bean_shar)
+![email](https://img.shields.io/badge/-albi.sharafutdinova@gmail.com-512C8C?style=for-the-badge&logo=gmail)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bean05&layout=compact)](https://github.com/Bean05/github-readme-stats)
 
